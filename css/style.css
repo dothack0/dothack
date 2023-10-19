@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+/* Flaticon */
+@import url('uicons-regular-rounded.css');
+@import url('uicons-brands.css');
+@import url('uicons-solid-rounded.css');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.maintext {
+    color: #64cffa; 
+    background-image: -webkit-radial-gradient(ellipse, #64cffa 7%, #4399fa 73%); 
+    background-clip: text; 
+    -webkit-background-clip: text; 
+    text-fill-color: transparent; 
+    -webkit-text-fill-color: transparent;
+    font-size: 100px;
+    font-weight: bold;
+}
